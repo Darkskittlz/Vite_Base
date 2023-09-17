@@ -64,8 +64,14 @@ const Expenses = () => {
               <td>12th</td>
             </tr>
             <tr>
+              <td>💳</td>
+              <td>SmartCredit (Tristan)</td>
+              <td>$30</td>
+              <td>15th</td>
+            </tr>
+            <tr>
               <td>🏋🏼‍♂️</td>
-              <td>Youfit </td>
+              <td>Youfit (Tristan)</td>
               <td>$30</td>
               <td>16th</td>
             </tr>
@@ -142,8 +148,8 @@ const Expenses = () => {
               <th>Tristan/Month</th>
             </tr>
             <tr>
-              <td>$433.50</td>
-              <td>$1646.50</td>
+              <td>$414</td>
+              <td>$1686</td>
             </tr>
           </table>
         </TableContainer>
