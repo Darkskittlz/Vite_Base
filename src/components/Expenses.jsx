@@ -109,7 +109,7 @@ const Expenses = () => {
               <td>💡</td>
               <td>Electric</td>
               <td>$88</td>
-              <td>25th</td>
+              <td>22nd</td>
             </tr>
             <tr>
               <td>📶</td>
