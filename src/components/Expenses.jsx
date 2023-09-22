@@ -88,28 +88,28 @@ const Expenses = () => {
               <td>21st</td>
             </tr>
             <tr>
+              <td>💡</td>
+              <td>Electric</td>
+              <td>$88</td>
+              <td>22nd</td>
+            </tr>
+            <tr>
               <td>📱</td>
               <td>Phone (Alice)</td>
-              <td>$30</td>
+              <td>$41</td>
               <td>24th</td>
             </tr>
             <tr>
               <td>📱</td>
-              <td>iPhone </td>
-              <td>$10</td>
-              <td>24th</td>
+              <td>Phone (Alice)</td>
+              <td>$155</td>
+              <td>September</td>
             </tr>
             <tr>
               <td>🌲</td>
               <td>Amazon</td>
               <td>$15</td>
               <td>25th</td>
-            </tr>
-            <tr>
-              <td>💡</td>
-              <td>Electric</td>
-              <td>$88</td>
-              <td>22nd</td>
             </tr>
             <tr>
               <td>📶</td>
@@ -148,7 +148,7 @@ const Expenses = () => {
               <th>Tristan/Month</th>
             </tr>
             <tr>
-              <td>$414</td>
+              <td>$569</td>
               <td>$1686</td>
             </tr>
           </table>
