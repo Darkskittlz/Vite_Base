@@ -23,13 +23,13 @@ const Expenses = () => {
             </tr>
             <tr>
               <td>💊</td>
-              <td>Ambetter Insurance (Alice)</td>
+              <td>Ambetter (Alice)</td>
               <td>$21</td>
               <td>1st</td>
             </tr>
             <tr>
               <td>💊</td>
-              <td>Humana Insurance (Alice)</td>
+              <td>Humana (Alice)</td>
               <td>$23</td>
               <td>6th</td>
             </tr>
@@ -144,10 +144,17 @@ const Expenses = () => {
           </table>
           <table>
             <tr>
+              <th>🌄 </th>
               <th>Alice/Month</th>
               <th>Tristan/Month</th>
             </tr>
             <tr>
+              <td>2 Weeks </td>
+              <td>$284.50 </td>
+              <td>$843 </td>
+            </tr>
+            <tr>
+              <td>1 Month </td>
               <td>$569</td>
               <td>$1686</td>
             </tr>
