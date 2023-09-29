@@ -156,13 +156,21 @@ const Expenses = () => {
             </tr>
             <tr>
               <td>2 Weeks </td>
-              <td>$284.50 </td>
+              <td>$236 </td>
               <td>$843 </td>
             </tr>
             <tr>
               <td>1 Month </td>
-              <td>$569</td>
+              <td>$472</td>
               <td>$1686</td>
+            </tr>
+          </table>
+          <table>
+            <tr>
+              <th>💵 Checking Account for Bills 💵</th>
+            </tr>
+            <tr>
+              <td>$755</td>
             </tr>
           </table>
         </TableContainer>
