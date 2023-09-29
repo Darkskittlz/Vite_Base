@@ -34,6 +34,12 @@ const Expenses = () => {
               <td>6th</td>
             </tr>
             <tr>
+              <td>💻</td>
+              <td>Microsoft</td>
+              <td>$2</td>
+              <td>8th</td>
+            </tr>
+            <tr>
               <td>📺</td>
               <td>HBO</td>
               <td>$7.99</td>
@@ -82,6 +88,12 @@ const Expenses = () => {
               <td>17th</td>
             </tr>
             <tr>
+              <td>🍏</td>
+              <td>Apple </td>
+              <td>$1</td>
+              <td>19th</td>
+            </tr>
+            <tr>
               <td>📺</td>
               <td>Crunchyroll </td>
               <td>$12</td>
@@ -96,14 +108,8 @@ const Expenses = () => {
             <tr>
               <td>📱</td>
               <td>Phone (Alice)</td>
-              <td>$41</td>
-              <td>24th</td>
-            </tr>
-            <tr>
-              <td>📱</td>
-              <td>Phone (Alice)</td>
-              <td>$155</td>
-              <td>September</td>
+              <td>$106</td>
+              <td>October 24th</td> 
             </tr>
             <tr>
               <td>🌲</td>
