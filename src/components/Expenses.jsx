@@ -48,7 +48,7 @@ const Expenses = () => {
             <tr>
               <td>📺</td>
               <td>Discord Nitro (Alice)</td>
-              <td>$10</td>
+              <td>$3</td>
               <td>10th</td>
             </tr>
             <tr>
