@@ -42,6 +42,10 @@ export const ExpensesContainer = styled.div`
         padding: 10px 50px 10px 50px;
         margin-bottom: -18px;
     }
+
+    @media screen and (max-width: 960px){
+      margin-top: 40px;
+    } 
 `
 
 export const TableContainer = styled.div`
