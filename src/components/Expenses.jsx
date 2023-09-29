@@ -109,7 +109,7 @@ const Expenses = () => {
               <td>📱</td>
               <td>Phone (Alice)</td>
               <td>$106</td>
-              <td>October 24th</td> 
+              <td>Oct 24th</td> 
             </tr>
             <tr>
               <td>🌲</td>
