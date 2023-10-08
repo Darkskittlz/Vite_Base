@@ -17,19 +17,19 @@ export default defineConfig({
 				  name: 'Bills',
 				  short_name: 'Bills',
 				  description: 'Photo App with Vite',
-				  theme_color: '#000000',
-				  icons: [
-					{
-					  src: '/icons/bills-128x128.png',
-					  sizes: '128x128',
-					  type: 'image/png'
-					},
-					{
-					  src: '/icons/bills-512x512.png',
-					  sizes: '512x512',
-					  type: 'image/png'
-					}
-				  ]
+				  theme_color: '#000000'
+				  // icons: [
+					// {
+          //   src: '/icons/inser_icon_img',
+					//   sizes: '128x128',
+					//   type: 'image/png'
+					// },
+					// {
+					//   src: '/icons/bills-512x512.png',
+					//   sizes: '512x512',
+					//   type: 'image/png'
+					// }
+				  // ]
 				}
 			})
 	  	]
